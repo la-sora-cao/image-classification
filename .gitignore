@@ -2,4 +2,4 @@
 *.p
 cifar-10-batches-py
 __pycache__
-image_classification.*
+image_classification.data-00000-of-00001
